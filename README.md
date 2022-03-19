@@ -1,9 +1,9 @@
-#  Budget App
+#  HELLO RAILS API ONLY
 
-The project is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+DEMO RAILS API ONLY PROJECT
 
-
-[##Live Demo](https://damp-ravine-72465.herokuapp.com/)
+[##REACT FRONT END LINK](unruffled-brahmagupta-4db9c5.netlify.app)
+[##API LINK](https://damp-eyrie-14276.herokuapp.com/)
 
 ## Built With
 
@@ -22,9 +22,9 @@ The project is about building a mobile web application where you can manage your
 * Yarn (yarn --v)
 
 ## To get a local copy run the following steps:
-- Copy this link [this link](https://github.com/Hector096/budget_app)
+- Copy this link [this link](https://github.com/Hector096/hello-rails)
 - Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Hector096/budget_app)"
+- Run "git clone Paste [this link](https://github.com/Hector096/hello-rails)"
 - Open the folder with your code editor
 - Create a branch to work on
 
@@ -50,7 +50,7 @@ To run the tests locally :
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hector096/budget_app/issues).
+Feel free to check the [issues page](https://github.com/Hector096/hello-rails/issues).
 
 
 ## Acknowledgements
