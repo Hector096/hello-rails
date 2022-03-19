@@ -1,43 +1,26 @@
-#  Budget App
+# HELLO RAILS REACT FRONTEND
 
-The project is about building a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+ A project using the `react-rails` gem to build React components as a part of Rails JavaScript and serve it in a component, react_component, used in a regular ERB file.
 
+## Built with
 
-[##Live Demo](https://damp-ravine-72465.herokuapp.com/)
+- React
+- Ruby on Rails
+- Visual Studio Code
+- Lots of love :heart:
+## Link To React App
+[REACT App](https://github.com/Whoistolu/hello-react-front-end)
+## Setup
 
-## Built With
+- Clone [Hello-React-Rails Web App](https://github.com/Hector096/hello-rails) on local machine
+- Run 
 
-* Ruby on Rails
-* Rspec
-* Psql
+```
+yarn
 
-## Getting Started
-
-### Prerequisites
-
-* Ruby (ruby --v)
-* SQLite3 (sqlite3 --v)
-* Postgrestsql (psql --version)
-* Node.js (node --v)
-* Yarn (yarn --v)
-
-## To get a local copy run the following steps:
-- Copy this link [this link](https://github.com/Hector096/budget_app)
-- Open your terminal or command line
-- Run "git clone Paste [this link](https://github.com/Hector096/budget_app)"
-- Open the folder with your code editor
-- Create a branch to work on
-
-
-## Install RSpec
-
-To run the tests locally :
-
-* To instal RSpec for testing please run the following command on your terminal:
-
- ` gem install rspec`
- 
-
+```
+yarn start
+```
 
 👤 **Author**
 
@@ -45,16 +28,21 @@ To run the tests locally :
   - GitHub: [@githubhandle](https://github.com/Hector096)
   - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/hector096/)
 
+## ￼ Contributing
 
-## 🤝 Contributing
+Contributions, issues and feature requests are welcome!
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Hector096/budget_app/issues).
-
-
-## Acknowledgements
+Feel free to check the [issues page](https://github.com/Hector096/hello-rails/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a 👍 if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./LICENSE.md) licensed.
+
