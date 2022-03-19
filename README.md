@@ -1,26 +1,43 @@
-# HELLO RAILS REACT FRONTEND
+#  HELLO RAILS API ONLY
 
- A project using the `react-rails` gem to build React components as a part of Rails JavaScript and serve it in a component, react_component, used in a regular ERB file.
+DEMO RAILS API ONLY PROJECT
 
-## Built with
 
-- React
-- Ruby on Rails
-- Visual Studio Code
-- Lots of love :heart:
-## Link To React App
-[REACT App](https://github.com/Whoistolu/hello-react-front-end)
-## Setup
+[##API LINK](https://damp-eyrie-14276.herokuapp.com/)
 
-- Clone [Hello-React-Rails Web App](https://github.com/Hector096/hello-rails) on local machine
-- Run 
+## Built With
 
-```
-yarn
+* Ruby on Rails
+* Rspec
+* Psql
 
-```
-yarn start
-```
+## Getting Started
+
+### Prerequisites
+
+* Ruby (ruby --v)
+* SQLite3 (sqlite3 --v)
+* Postgrestsql (psql --version)
+* Node.js (node --v)
+* Yarn (yarn --v)
+
+## To get a local copy run the following steps:
+- Copy this link [this link](https://github.com/Hector096/hello-rails)
+- Open your terminal or command line
+- Run "git clone Paste [this link](https://github.com/Hector096/hello-rails)"
+- Open the folder with your code editor
+- Create a branch to work on
+
+
+## Install RSpec
+
+To run the tests locally :
+
+* To instal RSpec for testing please run the following command on your terminal:
+
+ ` gem install rspec`
+ 
+
 
 👤 **Author**
 
@@ -28,21 +45,16 @@ yarn start
   - GitHub: [@githubhandle](https://github.com/Hector096)
   - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/hector096/)
 
-## ￼ Contributing
 
-Contributions, issues and feature requests are welcome!
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/Hector096/hello-rails/issues).
 
+
+## Acknowledgements
+
 ## Show your support
 
-Give a 👍 if you like this project!
-
-## Acknowledgments
-
-- Microverse
-
-## 📝 License
-
-This project is [MIT](./LICENSE.md) licensed.
-
+Give a ⭐️ if you like this project!
